@@ -14,5 +14,5 @@ It is designed to help HR managers monitor staff turnover, identify high-risk gr
 - **Power BI**: Dashboard design and interactive visualizations  
 - **Excel/CSV**: Data preparation and transformation  
 - **DAX**: Custom measures and calculated columns  
- ![Image Alt]()
+ ![Image Alt](https://github.com/ZielesaPatrick/Power-_BI_Dashboard/blob/e06155cc1c27437b88fc0b98d0cf99237c43c9fa/images/HR_attrition.jpg)
 
