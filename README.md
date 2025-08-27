@@ -14,5 +14,5 @@ It is designed to help HR managers monitor staff turnover, identify high-risk gr
 - **Power BI**: Dashboard design and interactive visualizations  
 - **Excel/CSV**: Data preparation and transformation  
 - **DAX**: Custom measures and calculated columns  
-
+ ![Image Alt]()
 
